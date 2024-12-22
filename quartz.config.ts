@@ -12,11 +12,9 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'umami', host: 'unapologeticaf.github.io', websiteId: '56f613b1-ae93-44ea-8563-30d2baba8274' },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "unapologeticaf.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -24,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "DM Serif Display",
+        body: "Bricolage Grotesque",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
