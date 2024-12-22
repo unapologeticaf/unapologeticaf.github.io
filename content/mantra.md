@@ -1,0 +1,4 @@
+- ignore the hunger, cause you’ll always be starving
+- be comfortable with being replaceable
+- don’t be afraid of fire, cause everything you’ll ever build will go up in flames
+- by the time you’ll get the answer, the question will have changed

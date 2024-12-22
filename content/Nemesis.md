@@ -1,0 +1,6 @@
+---
+tags:
+  - game
+  - ttrpg
+  - playing
+---
