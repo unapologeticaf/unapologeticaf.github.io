@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "unapologetic.af",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -22,22 +22,22 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "DM Serif Display",
-        body: "Bricolage Grotesque",
+        header: "Merriweather",
+        body: "Lora",
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
+          light: "#ffffff",       // Pure white background
+          lightgray: "#f5f5f5",   // Light gray for secondary areas
+          gray: "#c0c0c0",        // Neutral gray for pills and subtle accents
+          darkgray: "#2b2b2b",    // Deep gray for borders and headings
+          dark: "#000000",        // Pure black for text
+          secondary: "#ff0022",   // Anarchy red for links, buttons, and highlights
+          tertiary: "#ff0022",    // Consistent red for secondary highlights
+          highlight: "rgba(192, 192, 192, 0.3)", // Semi-transparent gray for hover pills
+          textHighlight: "#ff002288", // Semi-transparent red for text highlights
+        },                    
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
@@ -71,6 +71,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.HardLineBreaks()
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
