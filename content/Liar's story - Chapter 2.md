@@ -1,0 +1,30 @@
+---
+tags:
+  - drawing
+  - stray_scribbles
+---
+![[dd129ls27.jpg]]
+![[dd140ls28.jpg]]
+![[dd141ls29.jpg]]
+![[dd142ls30.jpg]]
+![[dd142ls31.jpg]]
+![[dd143ls32.jpg]]
+![[dd145ls33.jpg]]
+![[dd146ls34.jpg]]
+![[dd147ls35.jpg]]
+![[dd148ls36.jpg]]
+![[dd149ls37.jpg]]
+![[dd150ls38.jpg]]
+![[liar_story_39 2.jpg]]
+![[liar_story_40 2.jpg]]
+![[liar_story_41 2.jpg]]
+![[liar_story_42 2.jpg]]
+![[liar_story_43 2.jpg]]
+![[liar_story_44 2.jpg]]
+![[liar_story_45 2.jpg]]
+![[liar_story_46 2.jpg]]
+![[liar_story_47 2.jpg]]
+![[liar_story_48 2.jpg]]
+![[liar_story_49 2.jpg]]
+![[liar_story_50 2.jpg]]
+![[liar_story_51 2.jpg]]

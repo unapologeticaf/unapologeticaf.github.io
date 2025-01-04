@@ -11,16 +11,16 @@ I'm currently:
 - preparing to move [my small Substack publication](https://flygohr.substack.com/) over to ConvertKit for a more marketing oriented experience
 - preparing to become a tattoo artist. I just passed the sanitary and hygiene exam required for tattoo and piercing practitioners, and I'm now going to practice on fake skin
 - playing a lot of the tabletop game [[Nemesis]], it's been very fun with my gf and flatmates
-- setting up my own version of the TTRPG [[Cairn]], as I plan to have one or two simple campaigns running for gf and friends in '25
+- setting up my own version of the TTRPG [[Cairn]], as I plan to have one or two simple campaigns running for gf and friends in '25. as soon as I have something I'll put it up for download
 - I would also like to create [my childhood RPG](https://github.com/unapologeticaf/childhood-rpg), the project is currently on hiatus but downloadable from [my GitHub page](https://github.com/unapologeticaf/). I might open this up for collabs in the future
 
 I'm also:
-- putting on hold the [[The Skeptics' Guide to the Universe]] and focusing on reading marketing related books. This week it's the turn of [[Superfans]] by Pat Flynn. I'm also reading [[A Life Worth Living]] and [[The Winner Effect]]
+- I just finished reading [[The Winner Effect]] and I'm now onto [[A Life Worth Living]]. I'm also reading [[Superfans]] as I'm looking forward to creating a community for my work
 - re-reading [[Fullmetal Alchemist]], and playing catch-up with [[One Piece]] (currently on chapter 1135)
-- watching [[Squid Game 2]] with my gf
+- watching [[Squid Game 2]] with my gf, just finished the last episode
 - binge re-watching the YT channel [[vSauce]], but also diving deep in the essays of [[Horses]] and [[BobbyBroccoli]]. to be fair, I've also flooded my YT feed with retrospectives on old game series and watching 3h+ vids while working or drawing
 - playing some [[Wild Rift]] after getting tired of [[League of Legends]]
-- on a 650+ days streak on Duolingo lmao
+- on a 690+ days streak on Duolingo lmao
 
 collections:
 - [[tags/read|books I've read]]

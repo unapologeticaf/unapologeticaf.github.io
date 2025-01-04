@@ -22,22 +22,22 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Merriweather",
-        body: "Lora",
+        header: "Oswald",
+        body: "IBM Plex Serif",
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
           light: "#ffffff",       // Pure white background
-          lightgray: "#f5f5f5",   // Light gray for secondary areas
-          gray: "#c0c0c0",        // Neutral gray for pills and subtle accents
-          darkgray: "#2b2b2b",    // Deep gray for borders and headings
-          dark: "#000000",        // Pure black for text
-          secondary: "#ff0022",   // Anarchy red for links, buttons, and highlights
-          tertiary: "#ff0022",    // Consistent red for secondary highlights
-          highlight: "rgba(192, 192, 192, 0.3)", // Semi-transparent gray for hover pills
-          textHighlight: "#ff002288", // Semi-transparent red for text highlights
-        },                    
+          lightgray: "#f0f0f0",   // Light gray for subtle backgrounds
+          gray: "#d4d4d4",        // Borders, separators
+          darkgray: "#5a5a5a",    // Muted text or inactive elements
+          dark: "#000000",        // Pure black text
+          secondary: "#000000",   // Headings, emphasis
+          tertiary: "#5a5a5a",    // Optional secondary text color
+          highlight: "rgba(0, 0, 0, 0.05)", // Subtle hover highlights
+          textHighlight: "#000000", // Highlighted text remains black
+        },                        
         darkMode: {
           light: "#161618",
           lightgray: "#393639",

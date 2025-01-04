@@ -1,0 +1,30 @@
+---
+tags:
+  - drawing
+  - stray_scribbles
+---
+![[dd113.jpg]]
+![[dd114.jpg]]
+![[dd115.jpg]]
+![[dd116.jpg]]
+![[dd117.jpg]]![[dd118.jpg]]
+![[dd119.jpg]]
+![[dd120.jpg]]
+![[dd121 (1).jpg]]
+![[dd122.jpg]]
+![[dd123.jpg]]
+![[dd124.jpg]]
+![[dd125.jpg]]
+![[dd126.jpg]]
+![[dd127 (1).jpg]]
+![[dd128.jpg]]
+![[dd129.jpg]]
+![[dd130.jpg]]
+![[ls19dd131.jpg]]
+![[dd132ls20.jpg]]
+![[dd133ls21.jpg]]
+![[dd134ls22 1.jpg]]
+![[dd135ls23.jpg]]
+![[dd136ls24.jpg]]
+![[dd137ls25.jpg]]
+![[dd138ls26.jpg]]
