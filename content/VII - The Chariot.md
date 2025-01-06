@@ -3,4 +3,4 @@ tags:
   - liar_tarots
   - major_arcana
 ---
-![[tarots_094.jpg]]
+![[Liar_tarots_0_Output_008.jpg]]

@@ -89,13 +89,19 @@ these are still a work in progress, as I wanted to move on to telling [[Liar's s
 - [[Knight of Pentacles]]
 - [[Queen of Pentacles]]
 - [[King of Pentacles]]
-## box art
-I also spent some time designing a potential box for all the cards
+## box art and card back
+I also spent some time designing a potential box for all the cards:
+
+![[Liar_tarots_0_Output_080.jpg]]
+
+This one was a previous, discarded version for the card box:
 
 ![[tarots_102.jpg]]
-## cards back
-finally, here's how I envisioned the card back. after thinking about it, tho, this definitely needs to be side-agnostic, you shouldn't be able to tell if a card is upside down by looking at its back
+
+finally, here's how I envisioned the card back initially. after thinking about it, tho, this definitely needs to be side-agnostic, you shouldn't be able to tell if a card is upside down by looking at its back. scroll down some more to see the final version
 
 ![[tarots_101.jpg]]
 
+here's the final, side-agnostic version of the card box:
 
+![[Liar_tarots_0_Output_079.jpg]]

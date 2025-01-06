@@ -3,4 +3,4 @@ tags:
   - liar_tarots
   - minor_arcana
 ---
-![[dd108.jpg]]
+![[Liar_tarots_0_Output_066.jpg]]
