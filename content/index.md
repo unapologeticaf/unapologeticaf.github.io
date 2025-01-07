@@ -10,8 +10,10 @@ my goals for this life are:
 - being my own boss, even if I end up giving myself overtime everyday
 - create a community of like-minded, creative, nerdy generalist people around my work
 
+I've started blogging here, I might turn this into a newsletter one day. in the meantime, just bookmark the page ;)
+
 I'm currently:
-- writing short poems for my book [[tags/stray|stray (poetry book)]]
+- writing short poems for my book [[tags/stray|stray (poetry book)]]. I'll be looking into publishing it this year
 - just ended my 251 days streak of one drawing a day for my [[stray_scribbles]] Instagram page. I'll be uploading all the drawings here in the upcoming weeks
 - polishing up a [[Liar Tarots|tarot deck]] (now complete) featuring my OC [[Liar]]. I'm also writing and illustrating his [[Liar's story (comic)|lore]], but I'm now focusing on setting up the printable files for the cards
 - working full time as a digital fantasy artist under the art name [[flygohr|Flygohr]]. I recently revamped my main website https://www.flygohr.com
