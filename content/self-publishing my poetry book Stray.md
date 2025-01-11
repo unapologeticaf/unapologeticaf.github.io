@@ -2,7 +2,7 @@
 tags:
   - blog
 ---
-last updated: 2025-01-10
+last updated: 2025-01-11
 
 I am putting together a poetry book. I have written short poems and stories for the last 15 years or so, and wanted to collect some in a book
 
@@ -95,3 +95,18 @@ I found three services I'd like to explore
 - Mixam
 
 in the following days I'll check out their options and see if they can be a good fit for my poetry book
+
+I'm signing up for Lulu first. here's how it went:
+- verified my email and started exploring my options
+- stuck with creating a new account when I click on "sell"
+- oh ok I needed to go on https://www.lulu.com/create
+- ok they have Luly Bookstore AND Global Distribution, but for the latter I need copyright, ISBN, and a cover page. I know nothing about ISBN and that copyright page, might be worth investigating
+- Global Distribution includes Amazon, which wouldn't be bad, meaning that people can still choose Amazon, but it's not on me
+- I picked a title, Stray, set language to English and book category to poetry
+- for copyright, they let me pick CC BY NC SA, the same as this digital garden. good
+- for ISBN, it's a code meant to identify books... and Lulu provides a free one that will always be tied to them, idc as long as I'm good to go. after generating mine, they give me some download options for a barcode since I'll need to put that code on specific pages of the book
+- hit my first roadblock with "Interior File Upload", a PDF with all the interior pages
+
+they offer a book creation guide: [lulu-book-creation-guide.pdf](https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf)
+
+I'll be reading that, and set up my PDF file in the upcoming days
