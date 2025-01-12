@@ -48,3 +48,6 @@ I hope what I'm saying is making sense
 
 I developed a system that allows me to do more with less time, by being incredibly focused and by optimizing my routines to the extreme
 
+## chapter 2: the overarching system
+
+

@@ -2,7 +2,7 @@
 tags:
   - blog
 ---
-last updated: 2025-01-11
+last updated: 2025-01-12
 
 I am putting together a poetry book. I have written short poems and stories for the last 15 years or so, and wanted to collect some in a book
 
@@ -86,7 +86,7 @@ I decided to arrange them in a table so I could more easily keep track of them a
 | [Bookvault](https://bookvault.app/)            | -                                                                                                                                                       | NO                                     | -                             | -                       | -                |
 | [Mixam](https://mixam.com/)                    | YES, with no indications of limitations, guess I'll learn them when I order                                                                             | YES, with a private link for customers | YES                           | 3                       | 0                |
 | [Streetlib](https://www.streetlib.com/)        | YES, although they partner with Amazon, it doesn't bother me much. they partner with more than 50 services so it's up to customers to pick their poison | not that I can find                    | it seems it's ebooks only tho | -                       | -                |
-## chapter 3: trying a few
+## chapter 3: trying Lulu
 ok, it seems it will be POD
 
 I found three services I'd like to explore
@@ -109,4 +109,45 @@ I'm signing up for Lulu first. here's how it went:
 
 they offer a book creation guide: [lulu-book-creation-guide.pdf](https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf)
 
-I'll be reading that, and set up my PDF file in the upcoming days
+at first glance, it seems pretty easy, especially for my minimalistic poetry book
+
+> If your file does not include graphics, fills, or content that extends
+> to the edge of the page, you can prepare your file at the book’s
+> final trim size and our system will automatically add the 0.125
+> in/3.175 mm bleed.
+
+I can set up the interior of the book using Google Docs, I just need to decide on the format of the book first
+
+ideally, something small
+
+let's check what they have in small size
+
+| trim name  | trim size       |
+| ---------- | --------------- |
+| Pocketbook | 108 mm x 175 mm |
+| Digest     | 140 mm x 216 mm |
+| A5         | 148 mm x 210 mm |
+| Royal      | 156 mm x 234 mm |
+| US Trade   | 152 mm x 229 mm |
+A5 was the easiest to quickly mock-up with a printer sheet and it feels too big already
+
+Digest is almost there
+
+so I'll go with Pocketbook size here, hopefully it's something standard
+
+## chapter 4: formatting the book
+it turns out that Google Docs has no support for custom sizes
+
+I am downloading Libre Office, let's see how it goes
+
+I also need to find a good set of fonts that can be used in CC BY NC SA projects
+
+[it seems that all Google Fonts are open source](https://developers.google.com/fonts/faq)
+
+> **Can I use any font in a commercial product?**
+> Yes, you can use them commercially, and even include them within a product that is sold commercially. Usage and redistribution conditions are specified in the license. The most common license is the SIL Open Font License. Some fonts are under the Apache license or Ubuntu Font License. You can redistribute open source fonts according to those conditions.
+
+I will be using [Quattrocento](https://fonts.google.com/specimen/Quattrocento) for titles and [Fanwood Text](https://fonts.google.com/specimen/Fanwood+Text) for body
+
+
+
