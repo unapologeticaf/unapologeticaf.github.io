@@ -3,7 +3,7 @@ title: welcome
 ---
 I'm Gabriele, also known as [[unapologeticaf|unapologetic.af]], [[flygohr|Flygohr]], Liar, Aldebaran1317, or [[stray_scribbles|Stray]] online. this is my little [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening), or kitchen junk drawer, my attempt at collecting everything I do in one place
 
-last updated: 2025-01-12
+last updated: 2025-01-13
 
 my goals for this life are:
 - put my creative stuff out there: be it with illustrations, writing, poetry, games, or tattoos

@@ -2,7 +2,7 @@
 tags:
   - blog
 ---
-last updated: 2025-01-12
+last updated: 2025-01-13
 
 I am putting together a poetry book. I have written short poems and stories for the last 15 years or so, and wanted to collect some in a book
 
@@ -149,5 +149,20 @@ I also need to find a good set of fonts that can be used in CC BY NC SA projects
 
 I will be using [Quattrocento](https://fonts.google.com/specimen/Quattrocento) for titles and [Fanwood Text](https://fonts.google.com/specimen/Fanwood+Text) for body
 
+I had to fiddle a bit to change from inches to millimeters but I'm good to go now
 
+the page setup requires some more thinking on my end:
+- I need to figure out inner margins
+- and gutter
 
+gutter size can vary depending on the book's thickness, it's the space left between the spline of the book and the text, and of course thicker books need more space there or you might not be able to read the inner parts of text due to the curvature of the pages
+
+I think my book will be fairly thin, I have about 80 poems
+
+for books of 60 to 150 pages they recommend a gutter size of 16mm. I'm going to put 20 on all sides, and I should be good to go. they also ask for gutter position, either left or right, but I don't know this yet. this leaves me with an open question: when Lulu is talking about the interiors of the books, does it mean my interior PDF should start with the inner cover page?
+
+I can always edit this in the future, for now, I'll just start setting up fonts and the overall book setup
+
+after some fiddling around, I can officially say that I'm having issues with LO formatting, it's very clunky and the text really flows badly. I might want to switch to another word processor
+
+but the font pairing looks good
