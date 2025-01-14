@@ -2,7 +2,7 @@
 tags:
   - blog
 ---
-last updated: 2025-01-13
+last updated: 2025-01-14
 
 I am putting together a poetry book. I have written short poems and stories for the last 15 years or so, and wanted to collect some in a book
 
@@ -122,13 +122,13 @@ ideally, something small
 
 let's check what they have in small size
 
-| trim name  | trim size       |
-| ---------- | --------------- |
-| Pocketbook | 108 mm x 175 mm |
-| Digest     | 140 mm x 216 mm |
-| A5         | 148 mm x 210 mm |
-| Royal      | 156 mm x 234 mm |
-| US Trade   | 152 mm x 229 mm |
+| trim name  | trim size                               |
+| ---------- | --------------------------------------- |
+| Pocketbook | 108 mm x 175 mm (or 4.25 in x 6.875 in) |
+| Digest     | 140 mm x 216 mm                         |
+| A5         | 148 mm x 210 mm                         |
+| Royal      | 156 mm x 234 mm                         |
+| US Trade   | 152 mm x 229 mm                         |
 A5 was the easiest to quickly mock-up with a printer sheet and it feels too big already
 
 Digest is almost there
@@ -166,3 +166,29 @@ I can always edit this in the future, for now, I'll just start setting up fonts 
 after some fiddling around, I can officially say that I'm having issues with LO formatting, it's very clunky and the text really flows badly. I might want to switch to another word processor
 
 but the font pairing looks good
+
+given my issues with Libre Office, I'm giving up on it, and I'm trying Sigil, an open source software made specifically for books, I think
+
+aaand I'm wrong, it's just for ebooks, with no options for print
+
+I'm trying Scribus now
+
+this shouldn't be so difficult, I'm only trying to format a simple book, damn it
+
+Scribus is even worse
+
+I'm trying Reedsy now. It got me what I wanted in seconds, although without many formatting options
+
+I don't like the lack of options and the fact that it's not open source, but I will fall back to this if I have to
+
+I'm now trying NovelWriter, it seems cool - aaand it doesn't do what I want to do
+
+now onto SmartEdit Writer
+
+it doesn't work at all, jeez, I wasted half an hour on this already
+
+
+
+
+
+

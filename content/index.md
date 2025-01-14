@@ -13,7 +13,7 @@ my goals for this life are:
 I've started blogging [[blog|here]], I might turn this into a newsletter one day. in the meantime, just bookmark the page ;)
 
 I'm currently:
-- writing short poems for my book [[tags/stray|stray (poetry book)]]. I'll be looking into publishing it this year
+- writing short poems for my book [[tags/stray|stray (poetry book)]]. I'll be looking into publishing it this year, see [[self-publishing my poetry book Stray|here]]
 - just ended my 251 days streak of one drawing a day for my [[stray_scribbles]] Instagram page. I'll be uploading all the drawings here in the upcoming weeks
 - polishing up a [[Liar Tarots|tarot deck]] (now complete) featuring my OC [[Liar]]. I'm also writing and illustrating his [[Liar's story (comic)|lore]], but I'm now focusing on setting up the printable files for the cards
 - working full time as a digital fantasy artist under the art name [[flygohr|Flygohr]]. I recently revamped my main website https://www.flygohr.com
@@ -30,8 +30,8 @@ I'm also:
 - re-reading [[Fullmetal Alchemist]], and playing catch-up with [[One Piece]] (currently on chapter 1135)
 - watching [[Squid Game 2]] with my gf, just finished the last episode
 - watching YouTube essays as I do drawings for work. I'm currently obsessed with economics and sustainable productivity
-- playing some [[Wild Rift]] after getting tired of [[League of Legends]]
-- on a 690+ days streak on Duolingo lmao
+- playing some [[Wild Rift]] after getting tired of [[League of Legends]], reached Diamond and I'm around Rank 160 with Pyke support
+- on a 700+ days streak on Duolingo lmao
 
 collections:
 - [[tags/read|books I've read]]

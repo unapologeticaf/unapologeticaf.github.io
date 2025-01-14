@@ -49,5 +49,23 @@ I hope what I'm saying is making sense
 I developed a system that allows me to do more with less time, by being incredibly focused and by optimizing my routines to the extreme
 
 ## chapter 2: the overarching system
+at the core of my system there are habits
 
+habits are micro-tasks, standalone blocks, that propel me forward in life
+
+or maintenance, like working out and journaling, stuff that helps me stay afloat
+
+habits can be chained together in routines, as well as other tasks
+
+I find routines to be extremely helpful
+
+by routine I don't mean the same day the same time the same things
+
+I mean that there's a starting action, for example waking up, followed by a chain of tasks, often managed by an app that displays them to me one after the other (not a to-do list)
+
+for example, during my morning routine I chain together a bunch of reading, journaling, and logging
+
+it's easier to append recurring tasks to routines instead of context switching during the day
+
+next I have "slots", still have to find a proper name for them
 
